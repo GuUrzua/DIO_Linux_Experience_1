@@ -1,3 +1,4 @@
+#!bin/bash
 cd /
 mkdir /public /adm /ven /sec
 groupadd grp_adm
