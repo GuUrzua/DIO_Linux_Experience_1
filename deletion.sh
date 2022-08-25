@@ -1,3 +1,4 @@
+#!bin/bash
 cd /
 userdel -fr carlos
 userdel -fr maria
